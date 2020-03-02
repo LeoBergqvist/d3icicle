@@ -1,0 +1,44 @@
+{
+ "name": "Year",
+ "children": [
+  {
+   "name": "Autumn Semester",
+   "children": [
+    {
+     "name": "Period1",
+     "children": [
+      {"name": "Course1", "value": 7.5},
+      {"name": "Course2", "value": 7.5},
+      {"name": "Course3", "value": 7.5},
+      {"name": "Course4", "value": 7.5}
+     ]
+    },
+    {
+     "name": "Period2",
+     "children": [
+      {"name": "Course5", "value": 6},
+      {"name": "Course6", "value": 6.5},
+      {"name": "Course7", "value": 3},
+      {"name": "Course8", "value": 7.5},
+      {"name": "Course9", "value": 7.5}
+    ]
+  }
+  ]
+},
+ {
+  "name": "Spring Semester",
+  "children": [
+    {
+      "name": "Period_3_4",
+      "children": [
+        {"name": "Course10", "value": 12},
+        {"name": "Course11", "value": 7},
+        {"name": "Course12", "value": 5},
+        {"name": "Course13", "value": 7.5},
+        {"name": "Course14", "value": 7.5}
+      ]
+   }
+  ]
+ }
+]
+}
